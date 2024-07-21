@@ -110,6 +110,8 @@ body {
 .first-section {
     background-color: #2e2f42;
     padding: 188px 0 188px;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+    url(https://s3-alpha-sig.figma.com/img/7c8d/46d4/7e83b6c8ee4603ea892aa8aaebb3c5fe?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ejvvI8o-Ir3CEfSYU6kzFFTfIgSf08HswIuyzM9PHwjkeIyvSZmD-rr~LApPdAxr38dsXqMOlMJ-Yrkk0aB-N5Jkvuo-eoxkVx34y7H5BoPtzqzLnViDZKN69mFM0ZuCdKZmWVSGtvTl0priTm6C3a7zrCFTElyrS6T4BMPehrfjGhGvOBx4NgCrVXd3F8NtVdOYZtp2oo94f1h5fPjERcqZcK3~vJ9l2RRg1ZVw2qeTtqT1QMsXMRKTOGH1dvSFFMRJcgT5AT-iwTYRgqMBIARzeSZialDfTJ-kT0ZRtL8A6GqpkXnjOEQY1wuaKTeAFjrWrEYuXjgbIc3TOnJYRg__);
 }
 
 
