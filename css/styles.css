@@ -31,6 +31,7 @@ display: block;
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
+
     
 }
 .header-container{
@@ -140,7 +141,17 @@ position: relative;
     max-width: 1440px; 
 }
 
+.second-section-container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
 
+}
 .second-section{
     padding: 120px 0;
 }
@@ -214,7 +225,17 @@ h2 {
 .adv-list-item{
     width: calc((100% - 72px) / 4);
 }
-
+.div-icon-second{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+    
+}
 .list-item-second-paragraph {
     font-weight: 400;
     font-size: 16px;
