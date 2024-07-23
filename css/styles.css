@@ -292,6 +292,7 @@ h2 {
     display: flex;
     justify-content: center;
     gap: 24px;
+    padding: 32px 0;
 }
 .icons-cosial-medias{
     width: 40px;
