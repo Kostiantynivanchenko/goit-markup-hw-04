@@ -145,6 +145,7 @@ color: #404bbf;
     background-position: center;
     background-size: cover;
     max-width: 1440px; 
+    margin: 0 auto;
 }
 
 .second-section-container{
@@ -292,7 +293,7 @@ h2 {
     margin-bottom: 8px;
     text-align: center;
 }
-.social-medias{
+.social-medias {
     padding: 32px 0;
 
 }
@@ -300,7 +301,8 @@ h2 {
     display: flex;
     justify-content: center;
     gap: 24px;
-    padding: 32px 0;
+    padding: 0 16px;
+    margin-top: 8px;
 }
 .icons-cosial-medias{
     width: 40px;
